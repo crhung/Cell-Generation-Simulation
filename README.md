@@ -12,11 +12,18 @@ Pauses the simulation.
 ### Restart
 Restarts the simulation
 # Results
-Rule 1<br />
-![](images/Capture2.PNG?raw=true)<br />
-Rule 2<br />
-![](images/Capture.PNG?raw=true)<br />
-Rule 3<br />
-![](images/Capture3.PNG?raw=true)<br />
-Rule 4<br />
-![](images/Capture4.PNG?raw=true)<br />
+### Rule 1
+
+![](Images/Capture2.PNG?raw=true)
+
+### Rule 2
+
+![](Images/Capture.PNG?raw=true)
+
+### Rule 3
+
+![](Images/Capture3.PNG?raw=true)
+
+### Rule 4
+
+![](Images/Capture4.PNG?raw=true)
