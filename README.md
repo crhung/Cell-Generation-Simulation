@@ -2,13 +2,13 @@
 Visual simulation of one-dimensional binary cellular automatons based on rule 30
 # UI
 ### Start
-Starts the simulation
+Starts the simulation or starts the simulation after paused.
 ### Time
-Time between each layer is generated
+Time between each layer is generated.
 ### Max Row
-Maximum rows to be generated
+Maximum rows to be generated.
 ### Stop
-Pauses the simulation. Needs to be used if more rows are needed to be generated or a new rule is needed to generate a new row
+Pauses the simulation. 
 ### Restart
 Restarts the simulation
 # Results
