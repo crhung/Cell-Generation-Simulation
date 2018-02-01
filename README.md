@@ -13,6 +13,10 @@ Pauses the simulation.
 Restarts the simulation
 # Results
 Rule 1<br />
+![](images/Capture2.PNG?raw=true)<br />
 Rule 2<br />
+![](images/Capture.PNG?raw=true)<br />
 Rule 3<br />
-
+![](images/Capture3.PNG?raw=true)<br />
+Rule 4<br />
+![](images/Capture4.PNG?raw=true)<br />
