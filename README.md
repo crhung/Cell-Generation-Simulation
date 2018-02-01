@@ -11,7 +11,7 @@ Maximum rows to be generated
 Pauses the simulation. Needs to be used if more rows are needed to be generated or a new rule is needed to generate a new row
 ### Restart
 Restarts the simulation
-## Results
+# Results
 Rule 1<br />
 Rule 2<br />
 Rule 3<br />
